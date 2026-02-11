@@ -140,14 +140,6 @@ Software Engineer • Full-Stack Developer • Backend Developer • Cloud Engin
 Short description of what it does.  
 🔗 [View Project](#)
 
-### 🔹 Project Name 2  
-Short description of what it does.  
-🔗 [View Project](#)
-
-### 🔹 Project Name 3  
-Short description of what it does.  
-🔗 [View Project](#)
-
 ---
 
 ## 📍 What I'm Doing Now
@@ -162,11 +154,11 @@ Short description of what it does.
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOURPROFILE" target="_blank">
+<a href="https://www.linkedin.com/in/osarogie-omoregie-125505337/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
 </a>
 
-<a href="https://github.com/YOURUSERNAME" target="_blank">
+<a href="https://github.com/rogieregie" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
 </a>
 
