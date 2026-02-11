@@ -1,8 +1,13 @@
-# 👋 Hey, I'm Rogie!
+<h1 align="center">Hey 👋 I'm [Your Name]</h1>
 
-~~Aspiring Software Developer~~  
-### 🚀 Aspiring:
-Software Engineer • Full-Stack Developer • Backend Developer • Cloud Engineer • DevOps Engineer • AI/ML Engineer  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Aspiring+Full-Stack+Developer;Aspiring+Backend+Developer;Aspiring+Cloud+Engineer;Aspiring+DevOps+Engineer;Aspiring+AI%2FML+Engineer" 
+      alt="Typing Animation" 
+    />
+  </a>
+</p>
 
 ---
 
@@ -161,12 +166,6 @@ Short description of what it does.
 <a href="https://github.com/rogieregie" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
 </a>
-
-<a href="https://twitter.com/YOURPROFILE" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="45" height="45"/>
-</a>
-
-</p>
 
 ---
 
