@@ -141,7 +141,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔹Task Manager
+### 🔹Simple Task Manager
 A simple command line task manager built in Python using object-oriented programming principles. It allows users to add, complete, and remove tasks, with data saved using a JSON file. </br>
 🔗 [View Project](https://github.com/rogieregie/python-task-manager.git)
 
