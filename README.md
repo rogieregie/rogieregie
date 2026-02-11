@@ -1,63 +1,89 @@
-# 👋 Hey, I'm [Rogie!]
+# 👋 Hey, I'm Rogie!
 
 ~~Aspiring Software Developer~~  
-💻 **Aspiring:**
-- Software Developer  
-- Software Engineer  
-- Backend Developer  
-- Frontend Developer  
-- Full-Stack Developer  
-- Systems Developer  
-- Cloud Engineer  
-- DevOps Engineer  
-- Cybersecurity Analyst  
-- AI / ML Engineer  
+### 🚀 Aspiring:
+Software Engineer • Full-Stack Developer • Backend Developer • Cloud Engineer • DevOps Engineer • AI/ML Engineer  
 
 ---
 
-## 🧠 Languages & Technologies
+## 🧠 Tech Stack
 
-- 💙 Python  
-- 💛 Java  
-- ❤️ C  
-- 💚 C++  
-- 🧡 JavaScript  
-- 💜 HTML & CSS  
-- 🖤 SQL  
-<!-- Add / remove whatever actually applies to you -->
+<p align="left">
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+</a>
+
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Project Name 1
-Short description of what it does and what tech you used.  
-🔗 [Repository Link](#)
+### 🔹 Project Name 1  
+Short description of what it does.  
+🔗 [View Project](#)
 
-### 🔹 Project Name 2
-Short description of what it does and what tech you used.  
-🔗 [Repository Link](#)
+### 🔹 Project Name 2  
+Short description of what it does.  
+🔗 [View Project](#)
 
-### 🔹 Project Name 3
-Short description of what it does and what tech you used.  
-🔗 [Repository Link](#)
+### 🔹 Project Name 3  
+Short description of what it does.  
+🔗 [View Project](#)
 
 ---
 
 ## 📍 What I'm Doing Now
 
-🎓 Currently a University student at **Edinburgh Napier University**  
+🎓 Currently a university student at **Edinburgh Napier University**  
 📚 Studying Computing  
-🛠 Building projects, learning new technologies, and levelling up every day  
+🛠 Building projects & expanding my tech stack  
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-- LinkedIn: [Your LinkedIn]
-- Portfolio: [Your Website]
-- Email: [Your Email]
+<p align="left">
+
+<a href="https://linkedin.com/in/YOURPROFILE" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://github.com/YOURUSERNAME" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://twitter.com/YOURPROFILE" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="45" height="45"/>
+</a>
+
+</p>
 
 ---
 
-⭐️ Always learning. Always building.
+⭐ Always learning. Always building.
