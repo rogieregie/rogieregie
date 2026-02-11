@@ -1,9 +1,9 @@
-<h1 align="center">Hey 👋 I'm [Your Name]</h1>
+<h1 align="center">Hey 👋 I'm Rogie!</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Aspiring+Full-Stack+Developer;Aspiring+Backend+Developer;Aspiring+Cloud+Engineer;Aspiring+DevOps+Engineer;Aspiring+AI%2FML+Engineer" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=1F9ADF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Aspiring+Full-Stack+Developer;Aspiring+Backend+Developer;Aspiring+Cloud+Engineer;Aspiring+DevOps+Engineer;Aspiring+AI%2FML+Engineer" 
       alt="Typing Animation" 
     />
   </a>
