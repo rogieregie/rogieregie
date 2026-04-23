@@ -141,6 +141,10 @@
 A simple command line task manager built in Python using object-oriented programming principles. It allows users to add, complete, and remove tasks, with data saved using a JSON file. </br>
 🔗 [View Project](https://github.com/rogieregie/python-task-manager.git)
 
+### 🔹Minesweeper
+A command line implementation of the classic Minesweeper game, developed in Python. </br>
+🔗 [View Project](https://github.com/rogieregie/Minesweeper)
+
 ---
 
 ## 📍 What I'm Doing Now
